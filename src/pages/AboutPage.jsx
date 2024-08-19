@@ -1,5 +1,6 @@
 import React from 'react'
-import Kopi1 from '../assets/images/Kopi1.png'
+// import Kopi1 from '../assets/images/Kopi1.png'
+import Kopian from '../assets/images/kopian.png'
 import Hiasan from '../assets/images/hiasan.png'
 const AboutPage = () => {
   return (
@@ -13,7 +14,7 @@ const AboutPage = () => {
       </div>
  </div>
       <div className="coffee-cup">
-        <img src={Kopi1} alt="" />
+        <img src={Kopian} alt="" />
       </div>
      
     </div>
